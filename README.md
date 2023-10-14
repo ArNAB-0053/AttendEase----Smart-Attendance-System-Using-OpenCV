@@ -1,6 +1,9 @@
 # Smart-Attendance-System-Using-OpenCV
 It is an smart attendance system which will detect a particular student is present or not using face detection and will count the attendance.
 
+# VIDEO LINK
+https://clipchamp.com/watch/UH4eYMs8jVN
+
 # UI 
 ### Background UI, when the live video camera will open that will be shown
 ![background](https://github.com/ArNAB-0053/Smart-Attendance-System-Using-OpenCV/assets/105587279/679f0562-15bc-4176-a80d-e3f536aaa31a)
