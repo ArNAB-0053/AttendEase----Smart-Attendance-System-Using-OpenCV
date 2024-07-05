@@ -2,7 +2,7 @@
 It is an smart attendance system which will detect a particular student is present or not using face detection and will count the attendance.
 
 # VIDEO LINK
-https://clipchamp.com/watch/UH4eYMs8jVN
+[https://clipchamp.com/watch/UH4eYMs8jVN](https://drive.google.com/file/d/10SRMhUC-ctkjOm3qa8REYFytN1wZZ85Y/view?usp=sharing)
 
 # UI 
 ### Background UI, when the live video camera will open that will be shown
